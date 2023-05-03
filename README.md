@@ -1,8 +1,8 @@
-# 💫 About Me:
-Soy un desarrollador Full Stack 💪, amante de la programación 💻  y los videojuegos 🎮 
+# 💫 Sobre mi:
+Soy un desarrollador Full Stack 💪. Amante de la programación 💻 y los videojuegos🎮. 
 
 
-# 💻 Tech Stack:
+# 💻 Tecnologias:
 ![AZURE](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kevdev69&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
